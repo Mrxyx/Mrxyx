@@ -3,9 +3,11 @@
 I am a versatilis 🐱‍🏍. To be better 🚀.
 
 <h3>🏆Activity</h3>
+
 [![Mrx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrxyx&hide=contribs,prs)](https://github.com/Mrxyx/github-readme-stats)
 
 <h3>✨ Learning</h3>
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
