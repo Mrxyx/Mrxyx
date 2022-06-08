@@ -1,2 +1,2 @@
-[![Mrx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrxyx)](https://github.com/Mrxyx/github-readme-stats)
+[![Mrx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrxyx)](https://github.com/Mrxyx/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrxyx)](https://github.com/Mrxyx/github-readme-stats)
