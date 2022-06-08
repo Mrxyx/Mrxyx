@@ -2,12 +2,8 @@
 
 i`m mrx
 
-
-
-```xml
 <details>
-<summary>my data</summary>
+<summary>stats</summary>
 [![Mrx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrxyx)](https://github.com/Mrxyx/github-readme-stats)
 </details>
-```
 
