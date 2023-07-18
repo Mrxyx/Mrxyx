@@ -2,9 +2,6 @@
 
 I am a versatilis 🐱‍🏍. To be better 🚀.
 
-<h3>🏆Activity</h3>
-
-[![Mrx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrxyx&count_private=true&hide=prs)](https://github.com/Mrxyx)
 
 <h3>✨ Learning</h3>
 
